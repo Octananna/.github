@@ -1,5 +1,6 @@
 # Welcome to Loujo!
-## Dyslexic children learn easily with personalised songs & videos
+
+### Dyslexic children learn easily with personalised songs & videos
 
 [Sign-up for Loujo’s waitlist now to get an exclusive invite to test our beta product when we launch](https://learnwithloujo.com/)
 
@@ -15,6 +16,9 @@ Music and videos in learning enhances engagement, aids memory and comprehension 
 Easy to use dashboard to monitor children’s progress.​
 
 [Privacy Policy](https://learnwithloujo.com/privacy-policy)
+
 [Accessibility Statement](https://learnwithloujo.com/accessibility-statement)
+
 [Terms and Conditions](https://learnwithloujo.com/platform-terms-conditions)
+
 [Cookies Policy](https://learnwithloujo.com/cookie-policy)
