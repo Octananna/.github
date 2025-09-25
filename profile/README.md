@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Welcome to Loujo!
 ## Dyslexic children learn easily with personalised songs & videos
 
